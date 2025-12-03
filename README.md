@@ -1,16 +1,32 @@
-# movie_app
+# 🎬 Movie App
 
-A new Flutter project.
+A fully responsive Flutter application with a well-structured codebase.  
+The app uses **Provider** for state management and integrates with **TMDB API** to fetch movies, TV shows, images, ratings, and detailed information in real-time.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- **Responsive UI** that adapts to all screen sizes  
+- **Well-structured & maintainable code**  
+- **Provider State Management**  
+- **TMDB API Integration**  
+- **Movie & TV Show Listings**  
+- **Search & Details Screens**  
+- **Smooth & Modern UI**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🧩 Tech Stack
+
+- **Flutter**  
+- **Dart**  
+- **Provider**  
+- **TMDB API**  
+- **RESTful API Integration**
+
+---
+
+🔗 TMDB API Documentation
+For more details about the TMDB API, check the official documentation:
+https://developer.themoviedb.org/docs/getting-started
